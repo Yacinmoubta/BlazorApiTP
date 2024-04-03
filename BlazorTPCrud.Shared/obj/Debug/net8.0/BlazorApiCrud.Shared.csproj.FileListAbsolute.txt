@@ -1,0 +1,12 @@
+C:\Users\yelmoubtahij\Desktop\BlazorApi\BlazorTPCrud.Shared\bin\Debug\net8.0\BlazorApiCrud.Shared.deps.json
+C:\Users\yelmoubtahij\Desktop\BlazorApi\BlazorTPCrud.Shared\bin\Debug\net8.0\BlazorApiCrud.Shared.dll
+C:\Users\yelmoubtahij\Desktop\BlazorApi\BlazorTPCrud.Shared\bin\Debug\net8.0\BlazorApiCrud.Shared.pdb
+C:\Users\yelmoubtahij\Desktop\BlazorApi\BlazorTPCrud.Shared\obj\Debug\net8.0\BlazorApiCrud.Shared.csproj.AssemblyReference.cache
+C:\Users\yelmoubtahij\Desktop\BlazorApi\BlazorTPCrud.Shared\obj\Debug\net8.0\BlazorApiCrud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yelmoubtahij\Desktop\BlazorApi\BlazorTPCrud.Shared\obj\Debug\net8.0\BlazorApiCrud.Shared.AssemblyInfoInputs.cache
+C:\Users\yelmoubtahij\Desktop\BlazorApi\BlazorTPCrud.Shared\obj\Debug\net8.0\BlazorApiCrud.Shared.AssemblyInfo.cs
+C:\Users\yelmoubtahij\Desktop\BlazorApi\BlazorTPCrud.Shared\obj\Debug\net8.0\BlazorApiCrud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\yelmoubtahij\Desktop\BlazorApi\BlazorTPCrud.Shared\obj\Debug\net8.0\BlazorApiCrud.Shared.dll
+C:\Users\yelmoubtahij\Desktop\BlazorApi\BlazorTPCrud.Shared\obj\Debug\net8.0\refint\BlazorApiCrud.Shared.dll
+C:\Users\yelmoubtahij\Desktop\BlazorApi\BlazorTPCrud.Shared\obj\Debug\net8.0\BlazorApiCrud.Shared.pdb
+C:\Users\yelmoubtahij\Desktop\BlazorApi\BlazorTPCrud.Shared\obj\Debug\net8.0\ref\BlazorApiCrud.Shared.dll
